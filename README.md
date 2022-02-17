@@ -6,7 +6,6 @@
 
 <!---
 xamronpc/xamronpc is a ✨ special ✨ repository.
---->
 <html>
 	<head>
 		<title>Normax</title>
@@ -123,3 +122,4 @@ xamronpc/xamronpc is a ✨ special ✨ repository.
 
 	</body>
 </html>
+--->
